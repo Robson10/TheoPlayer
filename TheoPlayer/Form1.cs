@@ -56,12 +56,7 @@ namespace TheoPlayer
             conf = new conf_ini(page,2);
 
             piesni = new piesni(page, 0, conf.sciezka[0],conf.sciezka[1], conf.sciezka[2]);
-
-
         }
-
-
-        
     }
 }
 //  string x = "asd;sda";
